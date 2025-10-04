@@ -1,9 +1,6 @@
 ## whoami
 Security researcher. I find meaning in breaking things apart to deeply understand them, then attempting to build ways to defend/detect them.
 
-[![Website](https://img.shields.io/badge/blog-cybersaloon.io-blue?style=flat&logo=icloud&logoColor=white)](https://cybersaloon.io)
-[![GitHub followers](https://img.shields.io/github/followers/0xjyl?label=Followers&style=flat)](https://github.com/0xjyl)
-
 ---
 
 ### Interests & Hobbies
@@ -15,13 +12,13 @@ Security researcher. I find meaning in breaking things apart to deeply understan
   
 ---
 
-### 🔭 Current Focus
+### Current Focus
 - Detection engineering & threat behavior research (Mostly C&C stuff) 
 - Malware evasion methodology (Exploit Development & Reverse Engineering)
 
 ---
 
-### ⚙️ Projects
+### Projects
 | Project | Description |
 |----------|--------------|
 | [**detection-stuff**](https://github.com/0xjyl/detection-stuff) | Experiments, PoCs, and notes on behavioral detection and telemetry analysis. |
@@ -31,13 +28,13 @@ Security researcher. I find meaning in breaking things apart to deeply understan
 
 ---
 
-### 📚 Writing
+### Writing
 - [cybersaloon.io](https://cybersaloon.io) — research notes, tool releases, and field reports.  
 *(No unsolicited contact.)*
 
 ---
 
-### 💡 Tip
+### Tip
 If you’re a defender, check out the **Detection Engineering Notes** in [detection-stuff](https://github.com/0xjyl/detection-stuff).  
 For all else — read the blog.
 
