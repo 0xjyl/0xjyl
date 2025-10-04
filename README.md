@@ -21,7 +21,7 @@ Security researcher. I find meaning in breaking things apart to deeply understan
 ### Projects
 | Project | Description |
 |----------|--------------|
-| [**detection-stuff**](https://github.com/0xjyl/detection-stuff) | Experiments, PoCs, and notes on behavioral detection and telemetry analysis. |
+| [**detecting-stuff**](https://github.com/0xjyl/detecting-stuff) | Experiments, PoCs, and notes on behavioral detection and telemetry analysis. |
 | [**Loaddr**](https://github.com/0xjyl/loaddr) | Lightweight CSV → KML pipeline for lawful intelligence workflows. |
 
 *(More contributions coming soon.)*
