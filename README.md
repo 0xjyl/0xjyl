@@ -1,17 +1,14 @@
 ## whoami
-
 Security researcher. I find meaning in breaking things apart to deeply understand them, then attempting to build ways to defend/detect them.
 
-[![GitHub followers](https://img.shields.io/github/followers/0xjyl?label=Followers&style=flat)](https://github.com/0xjyl)
 [![Website](https://img.shields.io/badge/blog-cybersaloon.io-blue?style=flat&logo=icloud&logoColor=white)](https://cybersaloon.io)
-[![GPG](https://img.shields.io/badge/GPG-verifiable-green?style=flat&logo=gnuprivacyguard&logoColor=white)](#)
+[![GitHub followers](https://img.shields.io/github/followers/0xjyl?label=Followers&style=flat)](https://github.com/0xjyl)
 
 ---
 
 ### Interests & Hobbies
-
-- Security research (both offensive and defensive)
-- Privacy related stuff
+- Reverse Engineering (MacOS, Linux)/Exploit Development/Detection Engineering
+- Privacy related stuff 
 - Physical security stuff
 - Exercise and health stuff
 - The endless quest for grilling the perfect steak
@@ -27,8 +24,8 @@ Security researcher. I find meaning in breaking things apart to deeply understan
 ### ⚙️ Projects
 | Project | Description |
 |----------|--------------|
-| [**Loaddr**](https://github.com/0xjyl/loaddr) | Lightweight CSV → KML pipeline for lawful intelligence workflows. |
 | [**detection-stuff**](https://github.com/0xjyl/detection-stuff) | Experiments, PoCs, and notes on behavioral detection and telemetry analysis. |
+| [**Loaddr**](https://github.com/0xjyl/loaddr) | Lightweight CSV → KML pipeline for lawful intelligence workflows. |
 
 *(More contributions coming soon.)*
 
@@ -37,17 +34,6 @@ Security researcher. I find meaning in breaking things apart to deeply understan
 ### 📚 Writing
 - [cybersaloon.io](https://cybersaloon.io) — research notes, tool releases, and field reports.  
 *(No unsolicited contact.)*
-
----
-
-### 🧩 Badges (auto)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![ArangoDB](https://img.shields.io/badge/-ArangoDB-DDE072?style=flat&logo=arangodb&logoColor=black)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![CrowdStrike](https://img.shields.io/badge/-CrowdStrike-E41F26?style=flat)
-![Zscaler](https://img.shields.io/badge/-Zscaler-1B9EDE?style=flat)
-![OpenDNS](https://img.shields.io/badge/-OpenDNS-F58025?style=flat)
 
 ---
 
@@ -60,6 +46,7 @@ For all else — read the blog.
 ### Let's Connect
 
 Actually, let's not connect digitally-but if our paths cross at a conference, I'm always eager to exchange ideas and share insights.
+<br />
 <br />
 <br />
 <br />
