@@ -1,7 +1,6 @@
-### whoami
+## whoami
 
-Security researcher and self-proclaimed terrible developer with a relentless curiosity about the intricate dance between offense and defense in the cyber realm. 
-I find meaning in breaking things apart to deeply understand them—then attempting to craft robust defenses to withstand tomorrow's threats. Inspired by Terry Davis's wisdom, I believe, "The purpose of life is to entertain God."
+Security researcher. I find meaning in breaking things apart to deeply understand them, then attempting to build ways to defend/detect them.
 
 [![GitHub followers](https://img.shields.io/github/followers/0xjyl?label=Followers&style=flat)](https://github.com/0xjyl)
 [![Website](https://img.shields.io/badge/blog-cybersaloon.io-blue?style=flat&logo=icloud&logoColor=white)](https://cybersaloon.io)
